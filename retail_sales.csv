@@ -1,0 +1,16 @@
+Date,Product,Category,Price,Quantity Sold,Total Sales
+2026-01-05,Laptop,Electronics,55000,2,110000
+2026-01-08,Phone,Electronics,25000,5,125000
+2026-01-12,Headphones,Electronics,2000,10,20000
+2026-01-15,Chair,Furniture,4500,6,27000
+2026-01-20,Table,Furniture,8000,3,24000
+2026-02-03,Laptop,Electronics,55000,3,165000
+2026-02-07,Phone,Electronics,25000,7,175000
+2026-02-11,Headphones,Electronics,2000,15,30000
+2026-02-18,Chair,Furniture,4500,8,36000
+2026-02-25,Table,Furniture,8000,4,32000
+2026-03-02,Laptop,Electronics,55000,4,220000
+2026-03-06,Phone,Electronics,25000,6,150000
+2026-03-10,Headphones,Electronics,2000,12,24000
+2026-03-16,Chair,Furniture,4500,10,45000
+2026-03-22,Table,Furniture,8000,5,40000
